@@ -2,3 +2,4 @@ node_modules/*
 cli/node_modules/*
 request/node_modules/*
 response/node_modules/*
+socket/node_modules/*
